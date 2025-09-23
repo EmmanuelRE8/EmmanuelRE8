@@ -48,6 +48,7 @@ Here are some of the projects I worked on (and more coming soon 🚧):
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white)  
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=googleanalytics&logoColor=white)
 
 ---
 
