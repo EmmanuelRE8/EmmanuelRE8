@@ -25,19 +25,33 @@ Currently pursuing a **Master’s in Business Analytics & AI** at Ontario Tech (
 ---
 
 ## 📂 Featured Projects  
-Here are some of the projects I worked on (and more coming soon 🚧):  
 
-- 🎟️ **Ticket Sales Dashboard**  
-  Interactive dashboards and visualizations (Tableau + BigQuery + DBKS) analyzing ticketing data.  
-  *[Repo link]*  
+Here are my main repositories (with more work coming soon 🚧):  
 
-- 📈 **Sales Forecasting with Prophet/ARIMA**  
-  Time-series forecasting using Python to predict future sales trends.  
-  *[Repo link]*  
+---
 
-- 🤖 **Customer Churn Prediction**  
-  Simple ML model with Scikit-Learn to classify customer churn based on behavior.  
-  *[Repo link]*  
+💼 **[Portfolio-Code](https://github.com/EmmanuelRE8/Portfolio-Code/tree/main)**  
+Business Intelligence portfolio showcasing code, queries, and dashboards from my experience as a BI Lead.  
+Includes ETL pipelines (Databricks → BigQuery), SQL for data cleaning, and anonymized dashboards for revenue, marketing, and attendance analysis.  
+
+---
+
+🗺️ **[Maps & Vis](LINK_A_REPO)**  
+Interactive visualizations and map back-end development built with JavaScript for [Wisevoter.com](https://wisevoter.com/).  
+Focus on dynamic data-driven graphics, geospatial layers, and user-friendly exploration.  
+
+---
+
+🎓 **[Schoolar--Master--Work](https://github.com/EmmanuelRE8/Schoolar--Master--Work)**  
+Academic and professional experiments developed during my Master’s in Business Analytics & AI and Strategic Foresight.  
+Includes class projects, prototypes, and miscellaneous scripts for learning and testing.  
+
+---
+
+🤖 **[Emma-bot](LINK_A_REPO)**  
+Personal project to design and build a conversational chatbot/AI agent.  
+Explores NLP, intent classification, and interactive dialogue systems using Python and modern AI frameworks.  
+ 
 
 ---
 
