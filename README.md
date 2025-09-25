@@ -42,7 +42,7 @@ Focus on dynamic data-driven graphics, geospatial layers, and user-friendly expl
 
 ---
 
-🎓 **[Schoolar--Master--Work](https://github.com/EmmanuelRE8/Schoolar--Master--Work)**  
+🎓 **[Scholar_Projects](https://github.com/EmmanuelRE8/Schoolar--Master--Work)**  
 Academic and professional experiments developed during my Master’s in Business Analytics & AI and Strategic Foresight.  
 Includes class projects, prototypes, and miscellaneous scripts for learning and testing.  
 
