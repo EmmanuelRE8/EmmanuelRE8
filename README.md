@@ -36,7 +36,7 @@ Includes ETL pipelines (Databricks → BigQuery), SQL for data cleaning, and ano
 
 ---
 
-🗺️ **[Maps & Vis](LINK_A_REPO)**  
+🗺️ **[Maps & Vis](https://github.com/EmmanuelRE8/Maps-Vis)**  
 Interactive visualizations and map back-end development built with JavaScript for [Wisevoter.com](https://wisevoter.com/).  
 Focus on dynamic data-driven graphics, geospatial layers, and user-friendly exploration.  
 
