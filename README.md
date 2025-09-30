@@ -48,7 +48,7 @@ Includes class projects, prototypes, and miscellaneous scripts for learning and 
 
 ---
 
-🤖 **[Emma-bot](LINK_A_REPO)**  
+🤖 **[Emma-bot](https://github.com/EmmanuelRE8/EmmaBot_v1.git)**  
 Personal project to design and build a conversational chatbot/AI agent.  
 Explores NLP, intent classification, and interactive dialogue systems using Python and modern AI frameworks.  
 
