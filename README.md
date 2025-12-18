@@ -30,7 +30,7 @@ Here are my main repositories (with more work coming soon 🚧):
 
 ---
 
-💼 **[BI & Analytics Projects](https://github.com/EmmanuelRE8/BI-Analytics-Projects.git)**  
+🌐**[BI & Analytics Projects](https://github.com/EmmanuelRE8/BI-Analytics-Projects.git)**  
 Business Intelligence portfolio showcasing code, queries, and dashboards from my experience as a BI Lead.  
 Includes ETL pipelines (Databricks → BigQuery), SQL for data cleaning, and anonymized dashboards for revenue, marketing, and attendance analysis.  
 
@@ -42,7 +42,7 @@ Focus on dynamic data-driven graphics, geospatial layers, and user-friendly expl
 
 ---
 
-🎓 **[Scholar_Projects](https://github.com/EmmanuelRE8/Schoolar--Master--Work)**  
+💼**[Digital_Portfolio](https://github.com/EmmanuelRE8/Schoolar--Master--Work)**  
 Academic and professional experiments developed during my Master’s in Business Analytics & AI and Strategic Foresight.  
 Includes class projects, prototypes, and miscellaneous scripts for learning and testing.  
 
