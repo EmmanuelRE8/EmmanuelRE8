@@ -30,7 +30,7 @@ Here are my main repositories (with more work coming soon 🚧):
 
 ---
 
-🌐**[BI & Analytics Projects](https://github.com/EmmanuelRE8/BI-Analytics-Projects.git)**  
+📈**[BI & Analytics Projects](https://github.com/EmmanuelRE8/BI-Analytics-Projects.git)**  
 Business Intelligence portfolio showcasing code, queries, and dashboards from my experience as a BI Lead.  
 Includes ETL pipelines (Databricks → BigQuery), SQL for data cleaning, and anonymized dashboards for revenue, marketing, and attendance analysis.  
 
