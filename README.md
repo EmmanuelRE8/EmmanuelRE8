@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel Rueda Escalona  
+# 👋 Hi, I'm Emmanuel Rueda
 
 **Business Intelligence & Data Analytics Leader | MBAI Student @ Ontario Tech | M.A. Strategic Foresight**  
 
