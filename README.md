@@ -43,8 +43,8 @@ Focus on dynamic data-driven graphics, geospatial layers, and user-friendly expl
 ---
 
 💼 [DigitalPortfolio](https://github.com/EmmanuelRE8/Schoolar--Master--Work)
-Academic and professional experiments developed during my Master’s in Business Analytics & AI and Strategic Foresight.  
-Includes class projects, prototypes, and miscellaneous scripts for learning and testing.  
+This repository hosts my professional digital portfolio, built and deployed using GitHub Pages.
+It brings together selected work across Business Intelligence, Analytics Engineering, and Data Visualization, combining production-style dashboards with more narrative and creative visualization projects.  
 
 ---
 
