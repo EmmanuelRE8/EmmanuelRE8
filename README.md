@@ -26,7 +26,7 @@ Currently pursuing a **Master’s in Business Analytics & AI** at Ontario Tech (
 
 ## 📂 Featured Projects  
 
-Here are my main repositories (with more work coming soon 🚧):  
+Here are my main repositories:  
 
 ---
 
@@ -39,12 +39,6 @@ Includes ETL pipelines (Databricks → BigQuery), SQL for data cleaning, and ano
 🗺️ [Maps & Vis](https://github.com/EmmanuelRE8/Maps-Vis) 
 Interactive visualizations and map back-end development built with JavaScript for [Wisevoter.com](https://wisevoter.com/).  
 Focus on dynamic data-driven graphics, geospatial layers, and user-friendly exploration.  
-
----
-
-💼 [DigitalPortfolio](https://github.com/EmmanuelRE8/Schoolar--Master--Work)
-This repository hosts my professional digital portfolio, built and deployed using GitHub Pages.
-It brings together selected work across Business Intelligence, Analytics Engineering, and Data Visualization, combining production-style dashboards with more narrative and creative visualization projects.  
 
 ---
 
@@ -70,5 +64,5 @@ Explores NLP, intent classification, and interactive dialogue systems using Pyth
 ---
 
 ## 🤝 Let’s Collaborate!  
-I’m always open to connect with professionals, recruiters, and data enthusiasts.  
+I’m always open to connecting with professionals, recruiters, and data enthusiasts.  
 Feel free to reach out — let’s turn **data into impact**. 🚀  
